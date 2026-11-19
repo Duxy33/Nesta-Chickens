@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nesta Chickens rooster logo">
+  <rect width="64" height="64" rx="15" fill="#000000"/>
+  <path d="M19 33c-4 7-6 14-7 23h15c0-9 .5-14 2.5-18z" fill="#F8F5F0"/>
+  <circle cx="31" cy="31" r="12.5" fill="#F8F5F0"/>
+  <circle cx="20.5" cy="18" r="4.6" fill="#D32F2F"/>
+  <circle cx="28" cy="14.5" r="5.2" fill="#D32F2F"/>
+  <circle cx="35.5" cy="16.5" r="4.6" fill="#D32F2F"/>
+  <path d="M42.5 26.5 57 31.5l-14.5 6z" fill="#FFA000"/>
+  <path d="M33 39.5c3.6 0 5.6 3.2 4.4 6.6-.9 2.6-3.6 3.6-4.9 1.6-1.2-1.9-.4-4.6.5-6.4z" fill="#D32F2F"/>
+  <circle cx="37.4" cy="27.6" r="2.1" fill="#000000"/>
+</svg>
